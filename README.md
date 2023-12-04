@@ -24,9 +24,8 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
-<li>
-  By,
+<b>By,
 Albin Geo Shaji
-AGS
-</li>
+AGS</b>
+
 
